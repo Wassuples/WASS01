@@ -1,6 +1,8 @@
 # WASS01
 simple project that I made in 2~ days.
 
+The voice you hear is from the streamelements API found in the <code>se.py</code> script, there are multiple voices you can choose from so check out the <code>voiceTypes.txt</code> file for most of them. <sub>I think...</sub>
+
 ## Setup
 - Coded in Python 3.9.2. Install page here:
 https://www.python.org/downloads/release/python-392/
