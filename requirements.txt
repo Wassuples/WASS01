@@ -1,0 +1,5 @@
+assemblyai==0.31.0
+numpy==2.0.1
+PyAudio==0.2.14
+pygame_ce==2.4.0
+Requests==2.32.3
