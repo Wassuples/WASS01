@@ -1,4 +1,5 @@
 # This script records your microphone
+# Change the MIC_INDEX variable if the program isn't picking up audio from your mic
 
 import pyaudio
 import wave
