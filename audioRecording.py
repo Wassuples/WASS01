@@ -12,6 +12,7 @@ CHUNK = 1024
 THRESHOLD = 500  # Minimum amplitude threshold to detect audio
 SILENCE_DURATION = 3  # Time in seconds to wait before stopping recording after silence
 
+MIC_INDEX = 1
 
 def is_silent(data):
     audio_data = np.frombuffer(data, dtype=np.int16)
@@ -26,7 +27,7 @@ def main():
                         channels=CHANNELS,
                         rate=RATE,
                         input=True,
-                        input_device_index=1,
+                        input_device_index=MIC_INDEX,
                         frames_per_buffer=CHUNK)
 
     frames = []
