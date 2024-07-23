@@ -1,0 +1,96 @@
+British English:
+    Amy
+    Brian
+    Emma
+American English:
+    Ivy
+    Joanna
+    Joey
+    Justin
+    Kendra
+    Kimberly
+    Matthew
+    Salli
+Australian English:
+    Nicole
+    Russel
+Welsh English:
+    Geraint
+Indian English:
+    Aditi
+    Raveena
+Arabic:
+    Zeina
+Mandarin Chinese:
+    Zhiyu
+Danish:
+    Naja
+    Mads
+Dutch:
+    Lotte
+    Ruben
+French:
+    Celine
+    Lea
+    Mathieu
+Canadian French:
+    Chantal
+German:
+    Marlene
+    Vicki
+    Hans
+Hindi:
+    Aditi
+Icelandic:
+    Dora
+    Karl
+Italian:
+    Bianca
+    Carla
+    Giorgio
+Japanese:
+    Mizuki
+    Takumi
+Korean:
+    Seoyeon
+Norwegian:
+    Liv
+Polish:
+    Ewa
+    Jacek
+    Jan
+    Maja
+Brazilian Portuguese:
+    Camila
+    Ricardo
+    Vitoria
+European Portuguese:
+    Cristiano
+    Ines
+Romanian:
+    Carmen
+Russian:
+    Maxim
+    Tatyana
+European Spanish:
+    Conchita
+    Enrique
+    Lucia
+Mexican Spanish:
+    Mia
+American Spanish:
+    Lupe
+    Miguel
+    Penelope
+Swedish:
+    Astrid
+Turkish:
+    Filiz
+Welsh:
+    Gwyneth
+
+Notable Voices:
+    Hans
+    Brian
+    Justin
+    Kimberly
