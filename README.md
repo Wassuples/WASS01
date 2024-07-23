@@ -5,7 +5,7 @@ simple project that I made in 2~ days.
 - Coded in Python 3.9.2. Install page here:
 https://www.python.org/downloads/release/python-392/
 
-- This uses the AssemblyAI service which has it has 100 hours worth of audio transcription for free accounts. You can find it here: https://www.assemblyai.com/
+- This uses the AssemblyAI service which has 100 hours worth of audio transcription for free accounts. You can find it here: https://www.assemblyai.com/
 
 - Run <code>pip install -r requirements.txt</code> to install all modules.
 
