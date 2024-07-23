@@ -12,3 +12,7 @@ https://www.python.org/downloads/release/python-392/
 ## Using the "app"
 - Run "runMe.py".
 - It will record your mic in index 1, change this if it isn't picking up audio from your mic.
+
+## stats
+-64 lines of code
+-15 blank lines
