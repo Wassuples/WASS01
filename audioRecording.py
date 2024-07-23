@@ -1,3 +1,5 @@
+# This script records your microphone
+
 import pyaudio
 import wave
 import numpy as np
